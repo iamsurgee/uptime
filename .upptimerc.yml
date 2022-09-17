@@ -10,9 +10,15 @@ sites:
   - name: Music
     url: https://music.is-a.dev
   - name: One Time Msg
-    url: https://onemsg.js.org
+    url: https://onemsg.js.org/
   - name: GeoIP
     url: https://geoip.bsyou.repl.co/
+  - name: Terminal Bot
+    url: https://terminal.bsyou.repl.co/
+  - name: Joe Bot
+    url: https://oddballnuttynumericalanalysis--cjyou.repl.co/
+  - name: Garden API
+    url: https://garden.is-a.dev
   
 
 status-website:
