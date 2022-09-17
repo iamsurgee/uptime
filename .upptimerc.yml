@@ -20,6 +20,9 @@ sites:
   - name: Garden API
     url: https://garden.is-a.dev
   
+NOTIFICATION_DISCORD: true
+NOTIFICATION_DISCORD_WEBHOOK: true
+NOTIFICATION_DISCORD_WEBHOOK_URL: ${{ secrets.webhook }}
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
