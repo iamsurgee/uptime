@@ -21,6 +21,8 @@ sites:
     url: https://garden.is-a.dev
   - name: NewsPool
     url: https://newspool.js.org
+  - name: Linky
+    url: https://UnrealisticGrimVolcano-1.redirector.repl.co
   
 NOTIFICATION_DISCORD: true
 NOTIFICATION_DISCORD_WEBHOOK: true
