@@ -25,6 +25,8 @@ sites:
     url: https://UnrealisticGrimVolcano-1.redirector.repl.co
   - name: Shortem
     url: https://short.is-a.dev
+  - name: Hello
+    url: https://hello.is-a.dev
   
 NOTIFICATION_DISCORD: true
 NOTIFICATION_DISCORD_WEBHOOK: true
