@@ -31,6 +31,10 @@ sites:
     url: https://ink.is-a.dev/test
   - name: Status
     url: https://UnsteadyBitterPoints.noiceapi.repl.co
+  - name: Uptime
+    url: https://rudedarkbluehacks.modm.repl.co/
+  - name: Modmail
+    url: https://profitablecoordinatedmacroinstruction.modm.repl.co/
   
 NOTIFICATION_DISCORD: true
 NOTIFICATION_DISCORD_WEBHOOK: true
