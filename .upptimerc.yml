@@ -35,6 +35,8 @@ sites:
     url: https://rudedarkbluehacks.modm.repl.co/
   - name: Modmail
     url: https://profitablecoordinatedmacroinstruction.modm.repl.co/
+  - name: Note
+    url: https://NiceSubduedDevices.modm.repl.co
   
 NOTIFICATION_DISCORD: true
 NOTIFICATION_DISCORD_WEBHOOK: true
