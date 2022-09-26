@@ -1,7 +1,7 @@
 url: https://terminal.bsyou.repl.co/
-status: up
-code: 200
-responseTime: 186
-lastUpdated: 2022-09-25T23:48:59.744Z
+status: down
+code: 500
+responseTime: 15356
+lastUpdated: 2022-09-26T22:58:10.951Z
 startTime: Sat Sep 17 2022 07:55:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
