@@ -1,7 +1,7 @@
 url: https://short.is-a.dev
-status: up
-code: 200
-responseTime: 717
-lastUpdated: 2022-09-27T23:57:09.165Z
+status: down
+code: 500
+responseTime: 10763
+lastUpdated: 2022-09-28T11:40:14.576Z
 startTime: Sun Sep 18 2022 04:06:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
