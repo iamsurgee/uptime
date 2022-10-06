@@ -39,6 +39,8 @@ sites:
     url: https://NiceSubduedDevices.modm.repl.co
   - name: NewsPool Bot
     url: https://newspool-bot.craigcodes.repl.co
+  - name: Badminton
+    url: https://badminton.leecheeyong.repl.co
   
 NOTIFICATION_DISCORD: true
 NOTIFICATION_DISCORD_WEBHOOK: true
