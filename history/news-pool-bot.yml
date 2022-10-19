@@ -1,7 +1,7 @@
 url: https://newspool-bot.craigcodes.repl.co
-status: up
-code: 200
-responseTime: 330
-lastUpdated: 2022-10-18T23:21:29.921Z
+status: down
+code: 502
+responseTime: 21220
+lastUpdated: 2022-10-19T21:36:28.214Z
 startTime: Mon Sep 19 2022 13:41:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
