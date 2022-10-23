@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: joelee.works
     url: https://joelee.works
+  - name: Github Player
+    url: https://music.joelee.works
   - name: Jet Brawley
     url: https://cruelajarevents--leecheeyong.repl.co/
   - name: Music
