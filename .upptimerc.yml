@@ -43,6 +43,8 @@ sites:
     url: https://newspool-bot.craigcodes.repl.co
   - name: Badminton
     url: https://badminton.leecheeyong.repl.co
+  - name: Test Project
+    url: https://badminton.teambrawley.repl.co
   
 NOTIFICATION_DISCORD: true
 NOTIFICATION_DISCORD_WEBHOOK: true
