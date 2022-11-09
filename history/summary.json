@@ -227,12 +227,12 @@
     "url": "https://UnrealisticGrimVolcano-1.redirector.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/unrealisticgrimvolcano-1.redirector.repl.co.ico",
     "slug": "linky",
-    "status": "up",
-    "uptime": "90.23%",
-    "uptimeDay": "94.64%",
-    "uptimeWeek": "89.36%",
+    "status": "down",
+    "uptime": "90.29%",
+    "uptimeDay": "94.62%",
+    "uptimeWeek": "89.35%",
     "uptimeMonth": "88.73%",
-    "uptimeYear": "90.23%",
+    "uptimeYear": "90.29%",
     "time": 9599,
     "timeDay": 5074,
     "timeWeek": 6405,
@@ -279,8 +279,7 @@
       "2022-09-28": 204,
       "2022-09-27": 148,
       "2022-09-26": 37,
-      "2022-09-25": 105,
-      "2022-09-24": 44
+      "2022-09-25": 105
     }
   },
   {
@@ -342,11 +341,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ink.is-a.dev.ico",
     "slug": "inky",
     "status": "up",
-    "uptime": "67.51%",
+    "uptime": "67.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.19%",
-    "uptimeYear": "67.51%",
+    "uptimeMonth": "74.24%",
+    "uptimeYear": "67.52%",
     "time": 910,
     "timeDay": 383,
     "timeWeek": 930,
@@ -382,11 +381,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/unsteadybitterpoints.noiceapi.repl.co.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "93.28%",
-    "uptimeDay": "87.92%",
-    "uptimeWeek": "85.99%",
-    "uptimeMonth": "88.45%",
-    "uptimeYear": "93.28%",
+    "uptime": "93.34%",
+    "uptimeDay": "87.90%",
+    "uptimeWeek": "85.98%",
+    "uptimeMonth": "88.55%",
+    "uptimeYear": "93.34%",
     "time": 1655,
     "timeDay": 3442,
     "timeWeek": 1207,
@@ -418,7 +417,7 @@
       "2022-10-16": 750,
       "2022-10-15": 551,
       "2022-10-14": 89,
-      "2022-10-13": 253
+      "2022-10-13": 209
     }
   },
   {
