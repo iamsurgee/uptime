@@ -1,7 +1,7 @@
 url: https://hello.is-a.dev
-status: up
-code: 200
-responseTime: 318
-lastUpdated: 2022-11-17T18:40:39.435Z
+status: down
+code: 500
+responseTime: 560
+lastUpdated: 2022-11-17T22:20:58.603Z
 startTime: Sun Sep 18 2022 04:07:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
