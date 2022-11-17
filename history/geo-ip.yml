@@ -1,7 +1,7 @@
 url: https://geoip.bsyou.repl.co/
-status: down
-code: 502
-responseTime: 27570
-lastUpdated: 2022-11-17T18:14:11.757Z
+status: up
+code: 200
+responseTime: 449
+lastUpdated: 2022-11-17T20:34:18.573Z
 startTime: Sat Sep 17 2022 07:53:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
