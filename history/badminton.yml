@@ -1,7 +1,7 @@
 url: https://badminton.leecheeyong.repl.co
-status: up
-code: 200
-responseTime: 376
-lastUpdated: 2022-11-18T11:55:27.000Z
+status: down
+code: 502
+responseTime: 15172
+lastUpdated: 2022-11-18T17:15:35.199Z
 startTime: Thu Oct 06 2022 14:23:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
