@@ -1,7 +1,7 @@
 url: https://music.is-a.dev
-status: down
-code: 429
-responseTime: 15510
-lastUpdated: 2022-11-22T21:50:22.361Z
+status: up
+code: 200
+responseTime: 253
+lastUpdated: 2022-11-22T21:55:55.865Z
 startTime: Sat Sep 17 2022 07:46:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
