@@ -195,9 +195,9 @@
     "slug": "garden-api",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.44%",
     "time": 908,
     "timeDay": 394,
@@ -205,7 +205,6 @@
     "timeMonth": 1109,
     "timeYear": 908,
     "dailyMinutesDown": {
-      "2022-11-22": 6,
       "2022-11-14": 20,
       "2022-11-07": 46,
       "2022-11-05": 18,
@@ -244,19 +243,19 @@
     "url": "https://UnrealisticGrimVolcano-1.redirector.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/unrealisticgrimvolcano-1.redirector.repl.co.ico",
     "slug": "linky",
-    "status": "up",
-    "uptime": "92.89%",
-    "uptimeDay": "87.95%",
-    "uptimeWeek": "95.67%",
+    "status": "down",
+    "uptime": "93.10%",
+    "uptimeDay": "87.89%",
+    "uptimeWeek": "95.66%",
     "uptimeMonth": "94.09%",
-    "uptimeYear": "92.89%",
+    "uptimeYear": "93.10%",
     "time": 9430,
     "timeDay": 10762,
     "timeWeek": 10276,
     "timeMonth": 7949,
     "timeYear": 9430,
     "dailyMinutesDown": {
-      "2022-11-22": 135,
+      "2022-11-22": 136,
       "2022-11-21": 39,
       "2022-11-20": 33,
       "2022-11-19": 22,
@@ -299,7 +298,7 @@
       "2022-10-06": 221,
       "2022-10-05": 34,
       "2022-10-04": 127,
-      "2022-10-03": 225
+      "2022-10-03": 37
     }
   },
   {
@@ -363,11 +362,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ink.is-a.dev.ico",
     "slug": "inky",
     "status": "up",
-    "uptime": "73.59%",
+    "uptime": "73.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.01%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "73.59%",
+    "uptimeYear": "73.61%",
     "time": 980,
     "timeDay": 489,
     "timeWeek": 1470,
@@ -404,18 +403,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/unsteadybitterpoints.noiceapi.repl.co.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "92.57%",
-    "uptimeDay": "75.53%",
-    "uptimeWeek": "65.94%",
-    "uptimeMonth": "84.14%",
-    "uptimeYear": "92.57%",
+    "uptime": "93.28%",
+    "uptimeDay": "75.88%",
+    "uptimeWeek": "65.99%",
+    "uptimeMonth": "85.65%",
+    "uptimeYear": "93.28%",
     "time": 2254,
     "timeDay": 165,
     "timeWeek": 3612,
     "timeMonth": 2617,
     "timeYear": 2254,
     "dailyMinutesDown": {
-      "2022-11-22": 277,
+      "2022-11-22": 272,
       "2022-11-21": 75,
       "2022-11-20": 177,
       "2022-11-19": 185,
@@ -432,7 +431,7 @@
       "2022-11-08": 222,
       "2022-11-07": 95,
       "2022-11-06": 16,
-      "2022-11-05": 781
+      "2022-11-05": 126
     }
   },
   {
@@ -569,9 +568,9 @@
     "url": "https://badminton.teambrawley.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/badminton.teambrawley.repl.co.ico",
     "slug": "test-project",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.01%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.54%",
@@ -581,6 +580,7 @@
     "timeMonth": 2192,
     "timeYear": 2192,
     "dailyMinutesDown": {
+      "2022-11-22": 0,
       "2022-11-17": 100
     }
   }
