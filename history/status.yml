@@ -1,7 +1,7 @@
 url: https://UnsteadyBitterPoints.noiceapi.repl.co
-status: up
-code: 200
-responseTime: 88
-lastUpdated: 2022-12-08T23:13:59.503Z
+status: down
+code: 429
+responseTime: 1195
+lastUpdated: 2022-12-09T11:12:21.323Z
 startTime: Sun Sep 18 2022 09:33:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
