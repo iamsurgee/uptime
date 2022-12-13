@@ -21,6 +21,8 @@ sites:
     url: https://oddballnuttynumericalanalysis--cjyou.repl.co/
   - name: Garden API
     url: https://garden.is-a.dev
+  - name: Garden API - Tags
+    url: https://garden.is-a.dev/v2/tags
   - name: NewsPool
     url: https://newspool.js.org
   - name: Linky
