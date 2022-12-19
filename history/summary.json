@@ -272,17 +272,17 @@
     "url": "https://UnrealisticGrimVolcano-1.redirector.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/unrealisticgrimvolcano-1.redirector.repl.co.ico",
     "slug": "linky",
-    "status": "up",
-    "uptime": "95.35%",
-    "uptimeDay": "97.09%",
+    "status": "down",
+    "uptime": "95.38%",
+    "uptimeDay": "97.06%",
     "uptimeWeek": "98.82%",
     "uptimeMonth": "98.64%",
-    "uptimeYear": "95.35%",
-    "time": 8771,
-    "timeDay": 13653,
-    "timeWeek": 6615,
-    "timeMonth": 5766,
-    "timeYear": 8771,
+    "uptimeYear": "95.38%",
+    "time": 8789,
+    "timeDay": 14079,
+    "timeWeek": 7230,
+    "timeMonth": 5914,
+    "timeYear": 8789,
     "dailyMinutesDown": {
       "2022-12-19": 42,
       "2022-12-14": 77,
@@ -329,7 +329,7 @@
       "2022-10-12": 374,
       "2022-10-11": 458,
       "2022-10-10": 339,
-      "2022-10-09": 127
+      "2022-10-09": 86
     }
   },
   {
@@ -439,18 +439,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/unsteadybitterpoints.noiceapi.repl.co.ico",
     "slug": "status",
     "status": "up",
-    "uptime": "93.23%",
-    "uptimeDay": "78.82%",
-    "uptimeWeek": "94.97%",
+    "uptime": "93.25%",
+    "uptimeDay": "78.78%",
+    "uptimeWeek": "94.96%",
     "uptimeMonth": "80.26%",
-    "uptimeYear": "93.23%",
+    "uptimeYear": "93.25%",
     "time": 1798,
     "timeDay": 226,
     "timeWeek": 273,
     "timeMonth": 1070,
     "timeYear": 1798,
     "dailyMinutesDown": {
-      "2022-12-19": 306,
+      "2022-12-19": 307,
       "2022-12-14": 184,
       "2022-12-13": 18,
       "2022-12-12": 37,
@@ -474,8 +474,7 @@
       "2022-11-21": 75,
       "2022-11-20": 177,
       "2022-11-19": 185,
-      "2022-11-18": 136,
-      "2022-11-17": 26
+      "2022-11-18": 136
     }
   },
   {
@@ -643,7 +642,7 @@
     "uptimeYear": "99.78%",
     "time": 2840,
     "timeDay": 843,
-    "timeWeek": 2984,
+    "timeWeek": 3160,
     "timeMonth": 2898,
     "timeYear": 2840,
     "dailyMinutesDown": {
